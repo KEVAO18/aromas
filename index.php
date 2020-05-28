@@ -49,6 +49,13 @@
               <a class='nav-link' href='nosotros.php'>Nosotros</a>
             </li>
           </ul>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='whatsapp' target='_blank'>
+                <i class="fab fa-whatsapp whats"></i>
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
@@ -195,7 +202,7 @@
                   <i class='fab fa-instagram insta'> </i>
                 </a>
 
-                <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='instagram' target='_blank'>
+                <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='whatsapp' target='_blank'>
                   <i class="fab fa-whatsapp whats"></i>
                 </a>
                 <!-- GitHub -->
@@ -278,7 +285,7 @@
                 <p>
                   <i class='fas fa-envelope mr-3'></i>aromasyangeles@gmail.com</p>
                 <p>
-                  <a class="" href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' style="color: #ee6810" title='facebook' target='_blank'>
+                  <a class="" href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' style="color: #ee6810" title='whatsapp' target='_blank'>
                     <i class="fab fa-whatsapp mr-3"></i> +57 3122490811
                   </a>
                 </p>

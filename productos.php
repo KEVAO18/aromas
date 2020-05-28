@@ -56,7 +56,7 @@
         <div class='full-bg-img'>
           <div class='mask flex-center'>
             <div class='container'>
-              <div class='white-text text-center wow fadeInUp' style='padding-top: 5vh;'>
+              <div class='white-text text-center wow fadeInUp' style='padding-top: 5%;'>
                 <center><img src='assets/media/favicon2.png' width='45%' class='img-header'></center>
               </div>
             </div>
@@ -80,7 +80,7 @@
                 <p class="py-1"></p>
               </div>
             </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="700">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
               </center>
@@ -89,7 +89,7 @@
                 <p class="py-1"></p>
               </div>
             </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="900">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
               </center>
@@ -98,7 +98,7 @@
                 <p class="py-1"></p>
               </div>
             </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="1100">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualRafael.png" alt="arcangel" class="img-prod">
               </center>
@@ -114,7 +114,7 @@
       <article class=''>
         <div class='container'>
           <div class='row'>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="1300">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualJofiel.png" alt="arcangel" class="img-prod">
               </center>
@@ -123,7 +123,7 @@
                 <p class="py-1"></p>
               </div>
             </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="1500">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualChamuel.png" alt="arcangel" class="img-prod">
               </center>
@@ -132,7 +132,7 @@
                 <p class="py-1"></p>
               </div>
             </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="1700">
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualZaquiel.png" alt="arcangel" class="img-prod">
               </center>
@@ -177,7 +177,7 @@
                   <i class='fab fa-instagram insta'> </i>
                 </a>
 
-                <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='instagram' target='_blank'>
+                <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='whatsapp' target='_blank'>
                   <i class="fab fa-whatsapp whats"></i>
                 </a>
                 <!-- GitHub -->
@@ -260,7 +260,7 @@
                 <p>
                   <i class='fas fa-envelope mr-3'></i>aromasyangeles@gmail.com</p>
                 <p>
-                  <a class="" href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' style="color: #ee6810" title='facebook' target='_blank'>
+                  <a class="" href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' style="color: #ee6810" title='whatsapp' target='_blank'>
                     <i class="fab fa-whatsapp mr-3"></i> +57 3122490811
                   </a>
                 </p>
