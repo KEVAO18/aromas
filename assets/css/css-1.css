@@ -1,0 +1,163 @@
+  @font-face {
+    font-family: pristina;
+    src: url('assets/fonts/PRISTINA.TTF');
+  }
+
+  .font-1{
+    font-family: pristina;
+  }
+
+  .top-nav-collapse{
+    background: #ee6810ee !important;
+  }
+
+  .naranjado{
+    background: #ee681084;
+  }
+
+ .font-nar{
+    color: #ee6810;
+  }
+
+  .naranjado2{
+    background: #ee6810;
+  }
+
+  .gris{
+    background: #eeeeee22;
+  }
+
+  .text-orange2{
+    color: #ee6810;
+  }
+
+  .view {
+    background: linear-gradient(to bottom, #ee6810, #ffffff00 );
+    background-size: cover;
+  }
+  
+ /*.carta-view-velas {
+    background: url('https://estaticos.muyinteresante.es/media/cache/1000x460_thumb/uploads/images/article/55365b6934099b0279c8f5d0/llama-velas.jpg') center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .carta-view-armo {
+    background: url('');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }*/
+
+  @media (min-width: 768px) {
+      .view {
+          overflow: visible;
+          margin-top: -56px;
+      }
+  }
+
+  .navbar {
+      z-index: 1;
+  }
+
+  html,body,header,.view {
+    height: 100%;
+  }
+
+  .a-h{
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+
+  .a-h:hover{
+    transition: 0.5s;
+    background: #ffffff22;
+    border-radius: 12px 0px 12px 0px;
+  }
+
+  .git-ic{
+    margin-left: 18px;
+  }
+
+@media (min-width: 1096px){
+  .fijar{
+    position: fixed; top: 15%; right: 0; z-index: -1;
+  }
+}
+
+.btn-car{
+  position: absolute;
+  z-index: 1;
+  top: -35px;
+  font-size: 20px;
+  border-radius: 10%;
+  background: #a29bfea0;
+}
+
+.car-icon{
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.btn-car:hover > .car-icon{
+  text-shadow: 2px 2px 4px #00000084;
+  transform: rotate(360deg);
+  transition: .8s;
+}
+
+.btn-more{
+  font-size: 20px;
+  background: #ee6810;
+}
+
+.btn-more:hover{
+  color: #bbbbbb;
+}
+
+.img-prod{
+  border-radius: 5px 5px 0 0;
+  width: 95%;
+  transition: 1s;
+}
+
+.img-prod:hover{
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+  transition: 1s;
+}
+
+.card-tp{
+  background: #ffffff99;
+}
+
+.texto-form{
+  color: #222222;
+}
+
+.volver{
+  color: #444444;
+  font-size: 20px;
+  padding: 0;
+}
+
+.btn-volver{
+  z-index: 3;
+  position: fixed;
+  top: 90%;
+  right: 2%;
+}
+
+.face{
+  color: #40739e;
+  font-size: 20px
+}
+
+.insta{
+  font-size: 20px;
+  color: #d35400;
+}
+
+.whats{
+  font-size: 20px;
+  color: #2ecc71;
+}
