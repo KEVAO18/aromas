@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name="google-site-verification" content="GX-7jUzkvbPfdmSuIWcSjaWAtwgqfl7Qgjwf5NS6eJ4" />
+    <meta name="google-site-verification" content="9oNwK8deU0x4Vu09Yau4zG2QgxIOqRbH5eOUL6mg1u0" />
     <link rel='icon' href='assets/media/favicon.ico'>
     <title>Aromas & Ángeles</title>
     <!-- Font Awesome -->
