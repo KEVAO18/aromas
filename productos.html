@@ -2,6 +2,14 @@
 <html lang='es'>
   <head>
     <meta charset='utf-8'>
+    <meta name="page-name" content="aromas y angeles">
+    <meta name="page-name2" content="Aromas y Angeles">
+    <meta name="page-name3" content="Aromas">
+    <meta name="page-name4" content="Angeles">
+    <meta name="prod1" content="rituales">
+    <meta name="prod2" content="Armonizadores">
+    <meta name="prod3" content="Aceites">
+    <meta name='viewport' content='width=device-width, user-scalable=no'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <link rel='icon' href='assets/media/favicon.ico'>
     <title>Aromas & Ángeles</title>
@@ -302,6 +310,5 @@
     <!-- MDB core JavaScript -->
     <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.10.1/js/mdb.min.js'></script>
     <!-- scripts -->
-    <script type='text/javascript' src='assets/scrips/sc1.js'></script>
   </body>
 </html>
