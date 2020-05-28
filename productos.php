@@ -56,7 +56,7 @@
         <div class='full-bg-img'>
           <div class='mask flex-center'>
             <div class='container'>
-              <div class='white-text text-center wow fadeInUp' style='padding-top: 5%;'>
+              <div class='white-text text-center wow fadeInUp' style='padding-top: 2vh;'>
                 <center><img src='assets/media/favicon2.png' width='45%' class='img-header'></center>
               </div>
             </div>
