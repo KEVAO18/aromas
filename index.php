@@ -2,6 +2,14 @@
 <html lang='es'>
   <head>
     <meta charset='utf-8'>
+    <meta name="page-name" content="aromas y angeles">
+    <meta name="page-name2" content="Aromas y Angeles">
+    <meta name="page-name3" content="Aromas">
+    <meta name="page-name4" content="Angeles">
+    <meta name="prod1" content="rituales">
+    <meta name="prod2" content="Armonizadores">
+    <meta name="prod3" content="Aceites">
+    <meta name='viewport' content='width=device-width, user-scalable=no'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name="google-site-verification" content="9oNwK8deU0x4Vu09Yau4zG2QgxIOqRbH5eOUL6mg1u0" />
     <link rel='icon' href='assets/media/favicon.ico'>
@@ -49,8 +57,8 @@
         <div class='full-bg-img'>
           <div class='mask flex-center'>
             <div class='container'>
-              <div class='white-text text-center wow fadeInUp' style='padding-top: 5vh;'>
-                <center><img src='assets/media/favicon2.png' width='45%' class='img-header'></center>
+              <div class='white-text text-center wow fadeInUp' style='margin-top: 5%;'>
+                <center><img src='assets/media/favicon2.png' class='img-header'></center>
               </div>
             </div>
           </div>
@@ -320,7 +328,6 @@
     <!-- MDB core JavaScript -->
     <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.10.1/js/mdb.min.js'></script>
     <!-- scripts -->
-    <script type='text/javascript' src='assets/scrips/sc1.js'></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167869683-1"></script>
     <script>
