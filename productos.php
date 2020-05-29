@@ -267,7 +267,7 @@
               </strong>
             </h1>
             <h3>
-              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+              Para más información sobre este producto puedes contactarnos por whatsapp
             </h3>
           </center>
         </div>
@@ -286,7 +286,7 @@
               </strong>
             </h1>
             <h3>
-              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+              Para más información sobre este producto puedes contactarnos por whatsapp
             </h3>
           </center>
         </div>
@@ -305,7 +305,7 @@
               </strong>
             </h1>
             <h3>
-              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+              Para más información sobre este producto puedes contactarnos por whatsapp
             </h3>
           </center>
         </div>
@@ -324,7 +324,7 @@
               </strong>
             </h1>
             <h3>
-              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+              Para más información sobre este producto puedes contactarnos por whatsapp
             </h3>
           </center>
         </div>
