@@ -1,7 +1,7 @@
-  @font-face {
+/*  @font-face {
     font-family: pristina;
     src: url('assets/fonts/PRISTINA.TTF');
-  }
+  }*/
 
   .home-prod{
     font-size: 18px;
@@ -18,9 +18,9 @@
     }
   }
 
-  .font-1{
+/*  .font-1{
     font-family: pristina;
-  }
+  }*/
 
   .top-nav-collapse{
     background: #ee6810ee !important;
