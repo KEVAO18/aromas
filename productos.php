@@ -75,37 +75,13 @@
 <?php
   if ($type == "Rituales") {
     ?>
-
-    <?php
-  }elseif ($type == "Armonizadores") {
-    ?>
-
-    <?php
-  }elseif ($type == "AceitesAngelicales") {
-    ?>
-
-    <?php
-  }elseif ($type == "Esencias") {
-    ?>
-
-    <?php
-  }elseif ($type == "DifusoresDeAromas") {
-    ?>
-
-    <?php
-  }elseif ($type == "Velas") {
-    ?>
-
-    <?php
-  }elseif ($type == "KitEnergetico") {
-    ?>
     <section>
       <article class=''>
         <div class="container-fluid division">
           <center>
             <h1>
               <strong>
-                Kits Energéticos
+                Todos Los Productos
               </strong>
             </h1>
           </center>
@@ -188,6 +164,264 @@
       </article>
     </section>
     <?php
+  }elseif ($type == "Armonizadores") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Todos Los Productos
+              </strong>
+            </h1>
+          </center>
+        </div>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorMiguel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorUriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorGabriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorRafael.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorJofiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorChamuel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+    </section>
+    <?php
+  }elseif ($type == "AceitesAngelicales") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Aceites Angelicales
+              </strong>
+            </h1>
+            <h3>
+              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+            </h3>
+          </center>
+        </div>
+      </article>
+    </section>
+    <?php
+  }elseif ($type == "Esencias") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Esencias
+              </strong>
+            </h1>
+            <h3>
+              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+            </h3>
+          </center>
+        </div>
+      </article>
+    </section>
+    <?php
+  }elseif ($type == "DifusoresDeAromas") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Difusores de Aromas
+              </strong>
+            </h1>
+            <h3>
+              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+            </h3>
+          </center>
+        </div>
+      </article>
+    </section>
+    <?php
+  }elseif ($type == "Velas") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Velas
+              </strong>
+            </h1>
+            <h3>
+              Para mas informacion sobre este producto puedes contactarnos por whatsapp
+            </h3>
+          </center>
+        </div>
+      </article>
+    </section>
+    <?php
+  }elseif ($type == "KitEnergetico") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Kits Energéticos
+              </strong>
+            </h1>
+          </center>
+        </div>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitMiguel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitUriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitGabriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitRafael.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitJofiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitChamuel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+    </section>
+    <?php
   }elseif ($type == "Todos") {
     ?>
     <section>
@@ -205,25 +439,154 @@
           <div class='row'>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitMiguel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitUriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitGabriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitRafael.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitJofiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitChamuel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorMiguel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorUriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorGabriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorRafael.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorJofiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorChamuel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/armonizadorZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualMiguel.png" alt="arcangel" class="img-prod">
-              </center>
-              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
-              </div>
-            </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
-              <center>
-                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
-              </center>
-              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
-              </div>
-            </div>
-            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
-              <center>
-                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
                 <p style="font-size: 18px"></p>
@@ -248,7 +611,7 @@
           <div class='row'>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualJofiel.png" alt="arcangel" class="img-prod">
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
                 <p style="font-size: 18px"></p>
@@ -257,7 +620,7 @@
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualChamuel.png" alt="arcangel" class="img-prod">
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
                 <p style="font-size: 18px"></p>
@@ -267,6 +630,15 @@
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualJofiel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
                 <p style="font-size: 18px"></p>
@@ -422,8 +794,8 @@
         <!-- Footer Links -->
 
         <!-- Copyright -->
-        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2019 Copyright:
-          <a class='blue-grey-text' href=''>Aromas & Ángeles</a>
+        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2020 Copyright:
+          <a class='blue-grey-text' target='_blank' href='https://kevaosportafolio.000webhostapp.com'>Kevin Orrego</a>
         </div>
         <!-- Copyright -->
 

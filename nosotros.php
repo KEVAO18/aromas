@@ -207,8 +207,8 @@
         <!-- Footer Links -->
 
         <!-- Copyright -->
-        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2019 Copyright:
-          <a class='blue-grey-text' href=''>Aromas & Ángeles</a>
+        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2020 Copyright:
+          <a class='blue-grey-text' target='_blank' href='https://kevaosportafolio.000webhostapp.com'>Kevin Orrego</a>
         </div>
         <!-- Copyright -->
 

@@ -87,7 +87,7 @@
       <div class='row'>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
-            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualMiguel.png" alt="arcangel" class="img-prod">
+            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitMiguel.png" alt="arcangel" class="img-prod">
           </center>
           <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
             <p class="home-prod">Kit Energético de Limpieza y Protección Arcángel Miguel</p>
@@ -95,7 +95,7 @@
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
-            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
+            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitUriel.png" alt="arcangel" class="img-prod">
           </center>
           <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
             <p class="home-prod">Kit Energético de Abundancia y Prosperidad Arcángel Uriel</p>
@@ -103,15 +103,15 @@
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
-            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
+            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitGabriel.png" alt="arcangel" class="img-prod">
           </center>
           <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
-            <p class="home-prod">Kit Energético de Nuevos Comiensos Arcángel Gabriel</p>
+            <p class="home-prod">Kit Energético de Nuevos Comienzos Arcángel Gabriel</p>
           </div>
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
-            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualRafael.png" alt="arcangel" class="img-prod">
+            <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/kitRafael.png" alt="arcangel" class="img-prod">
           </center>
           <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
             <p class="home-prod">Kit Energético de Salud y Bienestar Arcángel Rafael</p>
@@ -121,7 +121,7 @@
       <br>
       <div class="row">
         <div class="col-sm-12 text-white">
-          <a class="btn btn-block btn-more"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" title="">Ver Mas</a>
+          <a class="btn btn-block btn-more"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" title="">Ver Más</a>
         </div>
       </div>
     </div>
@@ -130,20 +130,20 @@
           <div class='container collapse' id='collapseExample'>
             <div class='row'>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
-                <div class='card p-4 big3'>
-                  <h3 class=''><strong><a href="productos.php?type=Rituales" title="">Rituales</a></strong></h3>
+                <div class='card p-4 '>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=Rituales" title="">Rituales</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=Armonizadores" title="">Armonizadores</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=Armonizadores" title="">Armonizadores</a></strong></h3>
                   <h4 id='contador'></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
@@ -151,25 +151,25 @@
             <div class='row'>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=Esencias" title="">Esencias</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=Esencias" title="">Esencias</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=Velas" title="">Velas</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=Velas" title="">Velas</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong><a href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></strong></h3>
+                  <h3 class=''><strong><a style="color: #444444;" href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
@@ -286,7 +286,7 @@
 
               <!-- Links -->
               <center>
-                <h6 class='font-weight-bold font-nar tit-foot'>Contactanos</h6>
+                <h6 class='font-weight-bold font-nar tit-foot'>Contáctanos</h6>
               </center>
               <center class="font-nar py-3">
                 <p>
@@ -317,8 +317,8 @@
         <!-- Footer Links -->
 
         <!-- Copyright -->
-        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2019 Copyright:
-          <a class='blue-grey-text' href=''>Aromas & Ángeles</a>
+        <div class='footer-copyright text-center naranjado2 text-black-50 py-3'>© 2020 Copyright:
+          <a class='blue-grey-text' target='_blank' href='https://kevaosportafolio.000webhostapp.com'>Kevin Orrego</a>
         </div>
         <!-- Copyright -->
 
