@@ -61,10 +61,10 @@
     <header>
       <div class='view intro-2'>
         <div class='full-bg-img'>
-          <div class='mask flex-center'>
+          <div class='mask'>
             <div class='container'>
-              <div class='white-text text-center wow fadeInUp' style='padding-top: 2vh;'>
-                <center><img src='assets/media/favicon2.png' width='45%' class='img-header'></center>
+              <div class='white-text text-center' style='margin-top: 18vh;'>
+                <center><img src='assets/media/favicon2.png' class='img-header'></center>
               </div>
             </div>
           </div>
