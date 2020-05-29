@@ -138,12 +138,13 @@
                 <h6 class='font-weight-bold font-nar tit-foot'>Prod. principales</h6>
               </center>
               <center class="font-nar py-3">
-                <p class=''>Rituales</p>
-                <p class=''>Armonizadores</p>
-                <p class=''>Aceites Angelicales</p>
-                <p class=''>escencias</p>
-                <p class=''>Difusores de Aromas</p>
-                <p class=''>Velas</p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Rituales" title="">Rituales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Armonizadores" title="">Armonizadores</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Esencias" title="">Esencias</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Velas" title="">Velas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></p>              
               </center>
 
             </div>
@@ -158,10 +159,10 @@
               </center>
               <center class="font-nar py-3">
                 <p>
-                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Home</a>
+                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Inicio</a>
                 </p>
                 <p>
-                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php' id='prod'>Productos</a>
+                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php?type=Todos' id='prod'>Productos</a>
                 </p>
                 <p>
                   <a class='' style="color: #ee6810;" title="Nosotros" href='nosotros.php' id='nos'>Nosotros</a>

@@ -43,7 +43,7 @@
         <div class='collapse navbar-collapse' id='navbarSupportedContent'>
           <ul class='navbar-nav mr-auto'>
             <li class='nav-item a-h'>
-              <a class='nav-link' href='productos.php'>Productos<span class='sr-only'>(current)</span></a>
+              <a class='nav-link' href='productos.php?type=Todos'>Productos<span class='sr-only'>(current)</span></a>
             </li>
             <li class='nav-item a-h'>
               <a class='nav-link' href='nosotros.php'>Nosotros</a>
@@ -74,76 +74,76 @@
     </header>
     <section>
   <article class=''>
+    <div class="container-fluid division">
+      <center>
+        <h1>
+          <strong>
+            Productos
+          </strong>
+        </h1>
+      </center>
+    </div>
     <div class='container'>
       <div class='row'>
-        <div class='col-sm-12 text-center mt-4' style='color: #555555'>
-          <div class="col-sm-12 text-white">
-            <a href="productos.php" class="btn btn-block btn-more" style="border-radius: 12px; font-size: 30px;" title=""><h1><strong>Productos</strong></h1></a>
-          </div>
-        </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
             <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualMiguel.png" alt="arcangel" class="img-prod">
           </center>
-          <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-            <p style="font-size: 18px"></p>
-            <p class="py-1"></p>
+          <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
+            <p class="home-prod">Kit Energético de Limpieza y Protección Arcángel Miguel</p>
           </div>
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
             <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
           </center>
-          <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-            <p style="font-size: 18px"></p>
-            <p class="py-1"></p>
+          <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
+            <p class="home-prod">Kit Energético de Abundancia y Prosperidad Arcángel Uriel</p>
           </div>
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
             <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
           </center>
-          <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-            <p style="font-size: 18px"></p>
-            <p class="py-1"></p>
+          <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
+            <p class="home-prod">Kit Energético de Nuevos Comiensos Arcángel Gabriel</p>
           </div>
         </div>
         <div class='col-sm-6 col-md-3 mt-5'>
           <center>
             <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualRafael.png" alt="arcangel" class="img-prod">
           </center>
-          <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-            <p style="font-size: 18px"></p>
-            <p class="py-1"></p>
+          <div class='card px-4 py-2 text-center' style="border-radius: 0 0 5px 5px;">
+            <p class="home-prod">Kit Energético de Salud y Bienestar Arcángel Rafael</p>
           </div>
         </div>
       </div>
       <br>
       <div class="row">
         <div class="col-sm-12 text-white">
-          <a href="productos.php" class="btn btn-block btn-more" title="">Ver Mas</a>
+          <a class="btn btn-block btn-more"  data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" title="">Ver Mas</a>
         </div>
       </div>
     </div>
   </article>
-      <article class='gris'>
-          <div class='container'>
+      <article class='gris py-3'>
+          <div class='container collapse' id='collapseExample'>
             <div class='row'>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4 big3'>
-                  <h3 class=''><strong>Rituales</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=Rituales" title="">Rituales</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong>Armonizadores</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=Armonizadores" title="">Armonizadores</a></strong></h3>
                   <h4 id='contador'></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong>Aceites Angelicales</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
@@ -151,19 +151,25 @@
             <div class='row'>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong>Esencias</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=Esencias" title="">Esencias</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong>Difusores de Aromas</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
               <div class='col-md-4 col-sm-12 py-4 text-center'>
                 <div class='card p-4'>
-                  <h3 class=''><strong>Velas</strong></h3>
+                  <h3 class=''><strong><a href="productos.php?type=Velas" title="">Velas</a></strong></h3>
+                  <h4 class=''></h4>
+                </div>
+              </div>
+              <div class='col-md-4 col-sm-12 py-4 text-center'>
+                <div class='card p-4'>
+                  <h3 class=''><strong><a href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></strong></h3>
                   <h4 class=''></h4>
                 </div>
               </div>
@@ -242,12 +248,13 @@
                 <h6 class='font-weight-bold font-nar tit-foot'>Prod. principales</h6>
               </center>
               <center class="font-nar py-3">
-                <p class=''>Rituales</p>
-                <p class=''>Armonizadores</p>
-                <p class=''>Aceites Angelicales</p>
-                <p class=''>escencias</p>
-                <p class=''>Difusores de Aromas</p>
-                <p class=''>Velas</p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Rituales" title="">Rituales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Armonizadores" title="">Armonizadores</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Esencias" title="">Esencias</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Velas" title="">Velas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></p>              
               </center>
 
             </div>
@@ -262,10 +269,10 @@
               </center>
               <center class="font-nar py-3">
                 <p>
-                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Home</a>
+                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Inicio</a>
                 </p>
                 <p>
-                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php' id='prod'>Productos</a>
+                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php?type=Todos' id='prod'>Productos</a>
                 </p>
                 <p>
                   <a class='' style="color: #ee6810;" title="Nosotros" href='nosotros.php' id='nos'>Nosotros</a>

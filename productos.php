@@ -1,3 +1,10 @@
+<?php
+  if (isset($_GET['type'])) {
+    $type = $_GET['type'];
+  }else{
+    $type = "Todos";
+  }
+?>
 <!DOCTYPE html>
 <html lang='es'>
   <head>
@@ -65,12 +72,46 @@
       </div>
     </header>
     <section>
+<?php
+  if ($type == "Rituales") {
+    ?>
+
+    <?php
+  }elseif ($type == "Armonizadores") {
+    ?>
+
+    <?php
+  }elseif ($type == "AceitesAngelicales") {
+    ?>
+
+    <?php
+  }elseif ($type == "Esencias") {
+    ?>
+
+    <?php
+  }elseif ($type == "DifusoresDeAromas") {
+    ?>
+
+    <?php
+  }elseif ($type == "Velas") {
+    ?>
+
+    <?php
+  }elseif ($type == "KitEnergetico") {
+    ?>
+    <section>
       <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Kits Energéticos
+              </strong>
+            </h1>
+          </center>
+        </div>
         <div class='container'>
           <div class='row'>
-            <div class='col-sm-12 text-center'>
-              <h1 class='py-4' style='text-shadow: 1px 1px 1px #888888c4; color: #444444;'><strong>Productos</strong></h1>
-            </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
                 <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualMiguel.png" alt="arcangel" class="img-prod">
@@ -146,6 +187,101 @@
         </div>
       </article>
     </section>
+    <?php
+  }elseif ($type == "Todos") {
+    ?>
+    <section>
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Todos Los Productos
+              </strong>
+            </h1>
+          </center>
+        </div>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualMiguel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualUriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualGabriel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualRafael.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+      <article class=''>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualJofiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualChamuel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img style="box-shadow: 0px 0px 20px #ee6810;" src="assets/media/productos/ritualZaquiel.png" alt="arcangel" class="img-prod">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px"></p>
+                <p class="py-1"></p>
+              </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </article>
+    </section>
+    <?php
+  }
+?>
+    </section>
     <!-- Footer -->
       <footer class='page-footer white font-small lighten-5'>
 
@@ -217,12 +353,13 @@
                 <h6 class='font-weight-bold font-nar tit-foot'>Prod. principales</h6>
               </center>
               <center class="font-nar py-3">
-                <p class=''>Rituales</p>
-                <p class=''>Armonizadores</p>
-                <p class=''>Aceites Angelicales</p>
-                <p class=''>escencias</p>
-                <p class=''>Difusores de Aromas</p>
-                <p class=''>Velas</p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Rituales" title="">Rituales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Armonizadores" title="">Armonizadores</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=AceitesAngelicales" title="">Aceites Angelicales</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Esencias" title="">Esencias</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=DifusoresDeAromas" title="">Difusores de Aromas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=Velas" title="">Velas</a></p>
+                <p class=''><a style="color: #ee6810;" href="productos.php?type=KitEnergetico" title="">Kits Energéticos</a></p>              
               </center>
 
             </div>
@@ -237,10 +374,10 @@
               </center>
               <center class="font-nar py-3">
                 <p>
-                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Home</a>
+                  <a class='' style="color: #ee6810;" title="Home" href='index.php' id='prod'>Inicio</a>
                 </p>
                 <p>
-                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php' id='prod'>Productos</a>
+                  <a class='' style="color: #ee6810;" title="Productos" href='productos.php?type=Todos' id='prod'>Productos</a>
                 </p>
                 <p>
                   <a class='' style="color: #ee6810;" title="Nosotros" href='nosotros.php' id='nos'>Nosotros</a>
