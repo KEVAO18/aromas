@@ -763,7 +763,7 @@
 
               <!-- Links -->
               <center>
-                <h6 class='font-weight-bold font-nar tit-foot'>Contactanos</h6>
+                <h6 class='font-weight-bold font-nar tit-foot'>Contáctanos</h6>
               </center>
               <center class="font-nar py-3">
                 <p>
