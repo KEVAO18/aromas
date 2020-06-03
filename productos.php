@@ -9,13 +9,11 @@
 <html lang='es'>
   <head>
     <meta charset='utf-8'>
-    <meta name="page-name" content="aromas y angeles">
-    <meta name="page-name2" content="Aromas y Angeles">
-    <meta name="page-name3" content="Aromas">
-    <meta name="page-name4" content="Angeles">
-    <meta name="prod1" content="rituales">
-    <meta name="prod2" content="Armonizadores">
-    <meta name="prod3" content="Aceites">
+    <meta name="author" content="Kevin Orrego">
+    <meta name="description" content="Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mágicos elixires.">
+    <meta name="keywords" content="Aromas, Angeles, Arcangeles, aromas y angeles"/>
+    <meta name="copyright" content="Kevin Orrego" />
+    <meta name="robots" content="index,follow" />
     <meta name='viewport' content='width=device-width, user-scalable=no'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <link rel='icon' href='assets/media/favicon.ico'>
