@@ -5,9 +5,9 @@
     <meta name='viewport' content='width=device-width, user-scalable=no'>
     <meta name="author" content="Kevin Orrego">
     <meta name="description" content="Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mágicos elixires.">
-	<meta name="keywords" content="Aromas, Angeles, Arcangeles, aromas y angeles"/>
-	<meta name="copyright" content="Kevin Orrego" />
-	<meta name="robots" content="index,follow" />
+  	<meta name="keywords" content="Aromas, Angeles, Arcangeles, aromas y angeles"/>
+  	<meta name="copyright" content="Kevin Orrego" />
+  	<meta name="robots" content="index,follow" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name="google-site-verification" content="9oNwK8deU0x4Vu09Yau4zG2QgxIOqRbH5eOUL6mg1u0" />
     <link rel='icon' href='assets/media/favicon.ico'>
