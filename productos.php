@@ -18,7 +18,7 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta http-equiv="cache-control" content="3600" />
     <link rel='icon' href='assets/media/favicon.ico'>
-    <title>Aromas & Ángeles</title>
+    <title>Aromas & Ángeles | <?=$type?></title>
     <!-- Font Awesome -->
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.8.2/css/all.css'>
     <!-- Bootstrap core CSS -->
