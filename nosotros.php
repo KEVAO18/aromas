@@ -9,6 +9,7 @@
     <meta name="robots" content="index,follow" />
     <meta name='viewport' content='width=device-width, user-scalable=no'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta http-equiv="cache-control" content="3600" />
     <link rel='icon' href='assets/media/favicon.ico'>
     <title>Aromas & Ángeles</title>
     <!-- Font Awesome -->

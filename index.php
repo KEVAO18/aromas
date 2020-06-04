@@ -8,6 +8,7 @@
   	<meta name="keywords" content="Aromas, Angeles, Arcangeles, aromas y angeles"/>
   	<meta name="copyright" content="Kevin Orrego" />
   	<meta name="robots" content="index,follow" />
+    <meta http-equiv="cache-control" content="3600" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name="google-site-verification" content="9oNwK8deU0x4Vu09Yau4zG2QgxIOqRbH5eOUL6mg1u0" />
     <link rel='icon' href='assets/media/favicon.ico'>
