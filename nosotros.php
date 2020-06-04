@@ -40,10 +40,17 @@
         <div class='collapse navbar-collapse' id='navbarSupportedContent'>
           <ul class='navbar-nav mr-auto'>
             <li class='nav-item a-h'>
-              <a class='nav-link' href='productos.php'>Productos<span class='sr-only'>(current)</span></a>
+              <a class='nav-link' href='productos.php?type=Todos'>Productos<span class='sr-only'>(current)</span></a>
             </li>
             <li class='nav-item a-h'>
               <a class='nav-link' href='nosotros.php'>Nosotros</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class='btn white btn-sm font-weight-bold' href='https://api.whatsapp.com/send?phone=573122490811&text=Hola,%20quiero%20recibir%20m%C3%A1s%20informaci%C3%B3n' title='whatsapp' target='_blank'>
+                <i class="fab fa-whatsapp whats"></i>
+              </a>
             </li>
           </ul>
         </div>
@@ -63,7 +70,20 @@
       </div>
     </header>
     <section>
-      
+      <article class=''>
+        <div class="container-fluid division">
+          <center>
+            <h1>
+              <strong>
+                Difusores de Aromas
+              </strong>
+            </h1>
+            <h3>
+              Para más información sobre este producto puedes contactarnos por whatsapp
+            </h3>
+          </center>
+        </div>
+      </article>
     </section>
     <!-- Footer -->
       <footer class='page-footer white font-small lighten-5'>
