@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://aromasyangeles.herokuapp.com/</title>
+  <link>http://aromasyangeles.herokuapp.com/</link>
+
+<item>
+     <link>http://aromasyangeles.herokuapp.com/</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/index.php</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=Todos</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/nosotros.php</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=Rituales</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=Armonizadores</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=AceitesAngelicales</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=Esencias</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=DifusoresDeAromas</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=Velas</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://aromasyangeles.herokuapp.com/productos.php?type=KitEnergetico</link>
+     <title>Aromas &amp; Ãngeles</title>
+     <description>Linea de aromas creada con aceites esenciales, en los que unimos la ciencia de la Aromaterapia y la Cromaterapia para crear mÃ¡gicos elixires.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
