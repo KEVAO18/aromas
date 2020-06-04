@@ -79,7 +79,7 @@
               </strong>
             </h1>
             <h3>
-              Para más información sobre este producto puedes contactarnos por whatsapp
+              Para más información sobre nosotros y nuestros productos puedes contactarnos por whatsapp
             </h3>
           </center>
         </div>
