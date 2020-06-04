@@ -73,11 +73,6 @@
       <article class=''>
         <div class="container-fluid division">
           <center>
-            <h1>
-              <strong>
-                Difusores de Aromas
-              </strong>
-            </h1>
             <h3>
               Para más información sobre nosotros y nuestros productos puedes contactarnos por whatsapp
             </h3>
