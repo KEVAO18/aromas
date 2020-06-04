@@ -79,7 +79,7 @@
           <center>
             <h1>
               <strong>
-                Todos Los Productos
+                Rituales
               </strong>
             </h1>
           </center>
