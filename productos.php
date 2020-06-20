@@ -543,8 +543,8 @@
                 <img style="" src="assets/media/productos/kitMiguel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Miguel</p>
+                <p class="py-1 text-center">Este kit nos ayuda a depurar energias densas y de baja vibracion siendo el arcángel miguel el defensor de la verdad y la justicia.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -552,8 +552,8 @@
                 <img style="" src="assets/media/productos/kitUriel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Uriel</p>
+                <p class="py-1 text-center">Este kit nos brinda la opotunidad de enfocarnos hacia el exito, la felicidad y las ideas brillantes. Atrae la prosperidad.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -561,8 +561,8 @@
                 <img style="" src="assets/media/productos/kitGabriel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Gabriel</p>
+                <p class="py-1 text-center">Este kit es una guia alentadora para realizar nuevos comienzos. Tambien es una gran compañia para los niños y embarazadas.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -570,8 +570,8 @@
                 <img style="" src="assets/media/productos/kitRafael.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Rafael</p>
+                <p class="py-1 text-center">Este kit nos empodera para la sanacion fisica, mental, emocional y espiritual para reconectarnos de corazon con nuestro ser.</p>
               </div>
             </div>
           </div>
@@ -586,8 +586,8 @@
                 <img style="" src="assets/media/productos/kitJofiel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Jofiel</p>
+                <p class="py-1 text-center">Este kit nos despierta para ver el lado positivo de la situacion. Afianza la confianza en ti mismo y en los demas.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -595,8 +595,8 @@
                 <img style="" src="assets/media/productos/kitChamuel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Chamuel</p>
+                <p class="py-1 text-center">Este kit representa el fortalecimiento del amor propio lo que te permitira ver oportunidades de las que no te habias percatado.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -604,8 +604,8 @@
                 <img style="" src="assets/media/productos/kitZaquiel.png" alt="arcangel" class="img-prod">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Kit Arcángel Zaquiel</p>
+                <p class="py-1 text-center">Este kit es la clave para desarrollar el perdon desde el amor para asi transformar aspectos del pasado que desees liberar.</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
@@ -755,38 +755,50 @@
           <div class='row'>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasMiguel.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasMiguel.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Miguel</p>
+                <p class="py-1 text-center">Yo soy fortaleza. Yo soy Valor. Yo soy proteccion.</p>
+                <p class="py-1 text-center">Día: Domingo</p>
+                <p class="py-1 text-center">Color: Azul</p>
+                <p class="py-1 text-center">Potestad: Protrccion</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasRafael.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasJofiel.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Jofiel</p>
+                <p class="py-1 text-center">Yo soy sabiduria. Yo soy inspiracion. Yo soy comprension.</p>
+                <p class="py-1 text-center">Día: Lunes</p>
+                <p class="py-1 text-center">Color: Amarillo</p>
+                <p class="py-1 text-center">Potestad: Sabiduria</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasUriel.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasChamuel.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Chamuel</p>
+                <p class="py-1 text-center">Yo soy amor. Yo soy armonia. Yo soy unidad.</p>
+                <p class="py-1 text-center">Día: Martes</p>
+                <p class="py-1 text-center">Color: Rosado</p>
+                <p class="py-1 text-center">Potestad: Amor incondicional</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasGabriel.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasGabriel.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Gabriel</p>
+                <p class="py-1 text-center">Yo soy esperanza. Yo soy prureza. Yo soy inspiracion.</p>
+                <p class="py-1 text-center">Día: Miercoles</p>
+                <p class="py-1 text-center">Color: Blanco</p>
+                <p class="py-1 text-center">Potestad: inspiracion</p>
               </div>
             </div>
           </div>
@@ -798,20 +810,38 @@
           <div class='row'>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasZaquiel.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasRafael.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Rafael</p>
+                <p class="py-1 text-center">Yo soy claridad mental. Yo soy curacion. Yo soy equilibrio.</p>
+                <p class="py-1 text-center">Día: Jueves</p>
+                <p class="py-1 text-center">Color: Verde</p>
+                <p class="py-1 text-center">Potestad: Salud</p>
               </div>
             </div>
             <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
               <center>
-                <img style="height: 30vh;" src="assets/media/productos/velasJofiel.png" alt="arcangel" class="img-prod">
+                <img src="assets/media/productos/velasUriel.png" alt="arcangel" class="img-prod velas">
               </center>
               <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
-                <p style="font-size: 18px"></p>
-                <p class="py-1"></p>
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Uriel</p>
+                <p class="py-1 text-center">Yo soy abundancia. Yo soy prosperidad. Yo soy gratitud</p>
+                <p class="py-1 text-center">Día: Viernes</p>
+                <p class="py-1 text-center">Color: Naranja</p>
+                <p class="py-1 text-center">Potestad: Creatividad</p>
+              </div>
+            </div>
+            <div class='col-sm-6 col-md-3 mt-5' data-aos="fade-up" data-aos-duration="500">
+              <center>
+                <img src="assets/media/productos/velasZaquiel.png" alt="arcangel" class="img-prod velas">
+              </center>
+              <div class='card px-4 py-2' style="border-radius: 0 0 5px 5px;">
+                <p style="font-size: 18px; text-align: center;">Vela Arcángel Zaquiel</p>
+                <p class="py-1 text-center">Yo soy liberacion. Yo soy Transmutacion. Yo soy misericordia.</p>
+                <p class="py-1 text-center">Día: Sabado</p>
+                <p class="py-1 text-center">Color: Morado</p>
+                <p class="py-1 text-center">Potestad: Transmutacion</p>
               </div>
             </div>
           </div>
