@@ -195,7 +195,7 @@
               <div class='col-md-12 col-lg-12 text-center text-md-center'>
 
                 <!-- Facebook -->
-                <a class='fb-ic btn white btn-sm font-weight-bold' href='https://www.facebook.com/aromas.angeles.1' title='facebook' target='_blank'>
+                <a class='fb-ic btn white btn-sm font-weight-bold' href='https://www.facebook.com/AromasyAngeles1' title='facebook' target='_blank'>
                   <i class='fab fa-facebook-f face'> </i>
                 </a>
                 <!-- Twitter -->
